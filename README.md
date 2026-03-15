@@ -28,8 +28,8 @@ Mini aplicación web protegida con autenticación y autorización basada en role
 
 ## Instalación
 ```bash
-git clone https://github.com/sskaliy54/task-manager-laravel.
-cd AUTH_PROJECT
+git clone https://github.com/sskaliy54/task-manager-laravel .
+cd task-manager-laravel
 composer install
 npm install
 cp .env.example .env
